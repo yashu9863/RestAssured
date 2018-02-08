@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="E:/JAVA/Rest Assured-JARs/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA/Rest Assured-JARs/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA/Rest Assured-JARs/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA/Rest Assured-JARs/groovy-2.4.12.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA/Rest Assured-JARs/groovy-json-2.4.12.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA/Rest Assured-JARs/groovy-xml-2.4.12.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA/Rest Assured-JARs/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA/Rest Assured-JARs/hamcrest-library-1.3.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA/Rest Assured-JARs/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA/Rest Assured-JARs/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA/Rest Assured-JARs/httpmime-4.5.1.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA/Rest Assured-JARs/jaxb-api-2.2.12.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA/Rest Assured-JARs/rest-assured-3.0.6.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA/Rest Assured-JARs/tagsoup-1.2.1.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA/Rest Assured-JARs/docs/json-path-3.0.6-javadoc.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA/Rest Assured-JARs/docs/json-path-3.0.6-sources.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA/Rest Assured-JARs/docs/rest-assured-3.0.6-javadoc.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA/Rest Assured-JARs/docs/rest-assured-3.0.6-sources.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA/Rest Assured-JARs/docs/rest-assured-common-3.0.6-javadoc.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA/Rest Assured-JARs/docs/rest-assured-common-3.0.6-sources.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA/Rest Assured-JARs/docs/xml-path-3.0.6-javadoc.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA/Rest Assured-JARs/docs/xml-path-3.0.6-sources.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA/Rest Assured-JARs/Json Path/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA/Rest Assured-JARs/Json Path/groovy-2.4.12.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA/Rest Assured-JARs/Json Path/groovy-json-2.4.12.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA/Rest Assured-JARs/Json Path/json-path-3.0.6.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA/Rest Assured-JARs/Json Path/docs/json-path-3.0.6-javadoc.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA/Rest Assured-JARs/Json Path/docs/json-path-3.0.6-sources.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA/Rest Assured-JARs/Json Path/docs/rest-assured-common-3.0.6-javadoc.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA/Rest Assured-JARs/Json Path/docs/rest-assured-common-3.0.6-sources.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA/Rest Assured-JARs/json schema/activation-1.1.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA/Rest Assured-JARs/json schema/btf-1.2.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA/Rest Assured-JARs/json schema/guava-16.0.1.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA/Rest Assured-JARs/json schema/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA/Rest Assured-JARs/json schema/jackson-annotations-2.7.0.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA/Rest Assured-JARs/json schema/jackson-core-2.7.3.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA/Rest Assured-JARs/json schema/jackson-coreutils-1.8.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA/Rest Assured-JARs/json schema/jackson-databind-2.7.3.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA/Rest Assured-JARs/json schema/joda-time-2.3.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA/Rest Assured-JARs/json schema/jopt-simple-4.6.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA/Rest Assured-JARs/json schema/json-schema-core-1.2.5.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA/Rest Assured-JARs/json schema/json-schema-validator-2.2.6.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA/Rest Assured-JARs/json schema/json-schema-validator-3.0.6.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA/Rest Assured-JARs/json schema/jsr305-3.0.0.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA/Rest Assured-JARs/json schema/libphonenumber-6.2.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA/Rest Assured-JARs/json schema/mailapi-1.4.3.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA/Rest Assured-JARs/json schema/msg-simple-1.1.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA/Rest Assured-JARs/json schema/rhino-1.7R4.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA/Rest Assured-JARs/json schema/uri-template-0.9.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA/Rest Assured-JARs/json schema/docs/json-schema-validator-3.0.6-javadoc.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA/Rest Assured-JARs/json schema/docs/json-schema-validator-3.0.6-sources.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA/Rest Assured-JARs/XML PATH/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA/Rest Assured-JARs/XML PATH/groovy-2.4.12.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA/Rest Assured-JARs/XML PATH/groovy-xml-2.4.12.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA/Rest Assured-JARs/XML PATH/jaxb-api-2.2.12.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA/Rest Assured-JARs/XML PATH/tagsoup-1.2.1.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA/Rest Assured-JARs/XML PATH/xml-path-3.0.6.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA/Rest Assured-JARs/XML PATH/docs/rest-assured-common-3.0.6-javadoc.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA/Rest Assured-JARs/XML PATH/docs/rest-assured-common-3.0.6-sources.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA/Rest Assured-JARs/XML PATH/docs/xml-path-3.0.6-javadoc.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA/Rest Assured-JARs/XML PATH/docs/xml-path-3.0.6-sources.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA/Rest Assured-JARs/Spring mock/aopalliance-1.0.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA/Rest Assured-JARs/Spring mock/jaxb-api-2.2.12.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA/Rest Assured-JARs/Spring mock/spring-aop-4.2.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA/Rest Assured-JARs/Spring mock/spring-beans-4.2.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA/Rest Assured-JARs/Spring mock/spring-context-4.2.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA/Rest Assured-JARs/Spring mock/spring-core-4.2.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA/Rest Assured-JARs/Spring mock/spring-expression-4.2.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA/Rest Assured-JARs/Spring mock/spring-mock-mvc-3.0.6.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA/Rest Assured-JARs/Spring mock/spring-test-4.2.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA/Rest Assured-JARs/Spring mock/spring-web-4.2.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA/Rest Assured-JARs/Spring mock/spring-webmvc-4.2.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA/Rest Assured-JARs/Scala/jaxb-api-2.2.12.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA/Rest Assured-JARs/Scala/scala-library-2.11.12.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA/Rest Assured-JARs/Scala/scala-support-3.0.6.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="E:/JAVA/testng-6.9.4.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
