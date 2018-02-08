@@ -46,7 +46,7 @@ public class deleteAuthors {
 		
 		ResponseBody body = res.getBody();
 		
-		System.out.println(body.asString());
+		//System.out.println(body.asString());
 		
 	
 			
